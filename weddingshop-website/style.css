@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background: url("https://img.freepik.com/premium-vector/abstract-watercolor-background_23-2149044152.jpg?w=1060");
+    background-size: cover;
+    height: 90vh;
+    padding: 20px;
+}
+
+.card {
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+    border-radius: 350px;
+
+}
+
+.card1 {
+    text-align: center;
+    background-color: orange;
+    padding: 5px;
+    border-radius: 36px;
+    margin-top: 15px;
+
+}
+
+.heading {
+    color: #e7b849;
+    font-family: Comic Sans MS;
+    font-style: bold;
+    font-size: 40px;
+}
+
+.image {
+    height: 25vh;
+    width: 25vh;
+
+}
+
+.para {
+    color: #e7b849;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.para1 {
+    color: blue;
+    font-family: ro;
+    font-style: italic;
+}
+
+.button {
+    color: white;
+    background-color: #eda93c;
+    border-radius: 10px;
+    height: 38px;
+    width: 138px;
+}
